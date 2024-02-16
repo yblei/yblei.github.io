@@ -24,9 +24,9 @@ author:
   name             : "Yannik Blei"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Technische Universität Nürnberg (UTN)"
-  uri              : # URL
+  location         : "Nuremberg, Germany"
+  employer         : "UT Nuremberg"
+  uri              : "utn.de"
   email            : "none@example.org" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yblei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
