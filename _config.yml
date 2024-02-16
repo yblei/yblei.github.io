@@ -20,12 +20,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_new.png"
   name             : "Yannik Blei"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Technische Universität Nürnberg (UTN)"
   uri              : # URL
   email            : "none@example.org" 
 
