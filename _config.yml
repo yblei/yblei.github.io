@@ -26,7 +26,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nuremberg, Germany"
   employer         : "UT Nuremberg"
-  uri              : "utn.de"
+  uri              : # "utn.de"
   email            : # "none@example.org" 
 
   # Academic websites
