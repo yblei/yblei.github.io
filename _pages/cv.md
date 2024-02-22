@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+|--------|--------|
+| 2019 - 2022 | **Master Recherche Robotics (DFH Double Degree)**, Arts et Métiers, Paris (France) |
+| 2019 - 2022 | **M.Sc. Mechanical Engineering**, Karlsruhe Institute of Technology, Karlsruhe (Germany) |
+| 2017 – 2018 | **Exchange Year**, Purdue University, West-Lafayette (Indiana, USA) |
+| 2015 - 2019 | **B.Sc. Mechanical Engineering**, Karlsruhe Institut of Technology (KIT), Karlsruhe (Germany) |
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Academic Positions
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+|--------|--------|
+| 08/2023 - 08/2023 | **Doctoral Researcher** at UTN |
+| 06/2019 - 07/2021 | **Student Research Assistant** at IFL, KIT |
+| 06/2018 - 08/2019 | **Student Teaching Assistant** in Machine Design at IPEK, KIT |
+
+## Work Experience
+
+|--------|--------|
+| 02/2022 - 09/2022 | **Master Thesis** in edge AI, Wingcopter, Darmstadt (Germany)
+| 02/2020 - 07/2022 | **Student Internship** in Driver Assistance Systems (Data Analytics), Mercedes-Benz, Stuttgart (Germany) |
+| 09/2017 - 12/2017 | **Student Internship** at Lehigh Hanson, Decatur (TX) |
+| 07/2015 - 08/2015 | **Student Internship** at European Parliament, Brussels (Belgium) |
+
+Please visit my [LinkedIn](https://www.linkedin.com/in/yannik-blei-9a7686155/) page for in-depth information.
