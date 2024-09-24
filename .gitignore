@@ -6,3 +6,5 @@ Gemfile.lock
 
 # Ignore excel lock
 markdown_generator/~$publications.xlsx
+
+.direnv
