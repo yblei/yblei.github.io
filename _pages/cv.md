@@ -20,9 +20,9 @@ redirect_from:
 ## Academic Positions
 
 |--------|--------|
-| 08/2023 - 08/2023 | **Doctoral Researcher** at UTN |
-| 06/2019 - 07/2021 | **Student Research Assistant** at IFL, KIT |
-| 06/2018 - 08/2019 | **Student Teaching Assistant** in Machine Design at IPEK, KIT |
+| 08/2023 - 08/2023 | **Doctoral Researcher** at University of Technology Nuremberg (UTN) |
+| 06/2019 - 07/2021 | **Student Research Assistant** at IFL, Karlsruhe Institute of Technology (KIT) |
+| 06/2018 - 08/2019 | **Student Teaching Assistant** in Machine Design at IPEK, Karlsruhe Institute of Technology (KIT) |
 
 ## Work Experience
 
