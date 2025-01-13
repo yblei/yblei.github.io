@@ -14,7 +14,7 @@ redirect_from:
 |--------|--------|
 | 2019 - 2022 | **Master Recherche Robotics (DFH Double Degree)**, Arts et Métiers, Paris (France) |
 | 2019 - 2022 | **M.Sc. Mechanical Engineering**, Karlsruhe Institute of Technology, Karlsruhe (Germany) |
-| 2017 – 2018 | **Exchange Year**, Purdue University, West-Lafayette (Indiana, USA) |
+| 2017 - 2018 | **Exchange Year**, Purdue University, West-Lafayette (Indiana, USA) |
 | 2015 - 2019 | **B.Sc. Mechanical Engineering**, Karlsruhe Institut of Technology (KIT), Karlsruhe (Germany) |
 
 ## Academic Positions
